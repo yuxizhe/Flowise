@@ -3,6 +3,7 @@
     "version": "1.6.0",
     "private": true,
     "homepage": "https://flowiseai.com",
+    "packageManager": "yarn@1.22.17",
     "workspaces": [
         "packages/*",
         "flowise",
